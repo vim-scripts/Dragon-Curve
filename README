@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5034
+
+This is a simple demonstration of how to create a fractal in less than 256 bytes of Vim script.
+
+See also:
+http://en.wikipedia.org/wiki/Dragon_curve
